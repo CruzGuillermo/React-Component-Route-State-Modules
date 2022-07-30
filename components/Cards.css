@@ -1,0 +1,15 @@
+
+  /* display: flex; */
+  /* padding: 20px; */
+  /* text-align: center; */
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  /* font-size: smaller; */
+  /* font: 1em sans-serif; */
+  /* flex-direction: row; */
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  /* background: linear-gradient(45deg,  #42a5f5 0%,#478ed1 50%,#0d47a1 100%); */
+  }
+  

@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-image: url('https://wallpaperaccess.com/full/3038854.jpg');
+ /* background-image: url('https://wallpaperaccess.com/full/99810.jpg'); */
+    background-size: cover;
+    background-position: center center;
+}
+/* https://drcindychan.com/wp-content/uploads/2021/11/%E5%BE%9E%E9%9B%BB%E5%BD%B1%E3%80%8A%E6%A2%85%E8%89%B7%E8%8A%B3%E3%80%8B%E5%8F%8D%E6%80%9D%E6%88%91%E5%80%91%E7%9A%84%E8%BF%BD%E6%86%B6%E8%88%87%E7%94%9F%E6%B4%BB%E7%9A%84%E7%84%A1%E5%B8%B8.jpg */
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-image: url('https://img2.wallspic.com/crops/9/8/9/2/4/142989/142989-instantanea-arquitectura-fila-el_espacio_tridimensional-luz-3553x2000.jpg');
+  background-size: cover;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

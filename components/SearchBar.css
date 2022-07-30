@@ -1,0 +1,14 @@
+.boton{
+    border-radius: 7px;
+    border: none;
+}
+
+.boton:hover{
+    background-color: rgb(39, 167, 39);
+    transition: 0.5s;
+}
+.text{
+    border-radius: 7px;
+    border: none;
+    margin: 2px;
+}

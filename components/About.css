@@ -1,0 +1,17 @@
+.container{
+    padding: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 9px;
+    height: 500px;
+    width: 600px;
+    background-color: white;
+}
+.li{
+    font-size: larger;
+    color: black;
+    text-decoration: underline;
+}
+.lis{
+   padding: 5px;
+}
+

@@ -1,0 +1,65 @@
+.button{
+    background-color: transparent;
+    color: rgb(253, 0, 0);
+    border: none;
+    float: right;
+    font-size: 20px;
+}
+
+.button:hover{
+    background-color: red;
+    color: rgb(221, 217, 228);
+    border-radius: 5px;
+}
+
+.card {
+  /* height: 100vh; */
+  color: white;
+  font-size: x-large;
+  border: 1px white solid;
+    border-radius: 10px;
+    margin: 30px;
+    width: 18rem;
+    height: 13rem;
+    background-color: transparent;
+    /* background-image: url('https://wallpaperaccess.com/full/147476.jpg'); */
+    /* background-image: url('https://res.cloudinary.com/dtpgi0zck/image/upload/s--w8nugAik--/c_fill,h_580,w_860/v1/EducationHub/photos/lightning-grand-canyon.jpg'); */
+        /* background-image:url("https://pbs.twimg.com/profile_images/1438579814215077892/3xbfTYvx_400x400.jpg"); */
+        /* https://pbs.twimg.com/profile_images/1438579814215077892/3xbfTYvx_400x400.jpg */
+        background-size: cover;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  .card:hover{
+   
+    transition: 0.9s;
+    border-radius: 10px;
+    margin: 15px;
+    width: 23rem;
+    height: 15rem;
+    transition: 0.15s;
+  }
+  
+  .card-title {
+    color: white
+  } 
+
+  #closeIcon {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 8px;
+    margin-top: 8px;
+  }
+  
+  .card-body {
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+  }
+  .span{
+    border: none;
+    color: white;
+    background-color: transparent;
+    /* border-radius: 10px; */
+  }
+  .span:hover{
+    color: rgb(255, 0, 0)
+  }

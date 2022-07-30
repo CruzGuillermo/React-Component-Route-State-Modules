@@ -1,0 +1,45 @@
+ .navglobal{
+    color: black;
+    border: none;
+    /* font-size: x-large; */
+    border-radius: 7px;
+
+}
+.navglobal:hover{
+   background-color: rgb(39, 167, 39);
+    transition: 0.5s;
+}
+.Search{
+      font-size: x-large;
+}
+
+.info{
+    border-radius: 7px;
+    border: none;
+}
+.info:hover{
+   background-color: rgb(39, 167, 39);
+    transition: 0.5s;
+}
+.nav1{
+    background-color: transparent;
+}
+.navicono{
+    color: black;
+    
+    font-size: x-large;
+    border-radius: 7px;
+    
+}
+.navabout{
+    font-size: xx-large;
+    color: black;
+    /* margin: 7px; */
+    border: 2px brown solid;
+    border-radius: 10px;
+}
+.navcolor{
+    background-color: transparent;
+    color: blue;
+}
+
